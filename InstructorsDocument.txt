@@ -1,0 +1,6 @@
+B.Avenoglu#sameDepartment#1-2,1-3,3-5
+B.Çelikkale#outsideUniversity#2-1,4-6,5-8
+S.Esmelioglu#sameDepartment#1-1,3-2,3-3,5-4
+S.K.Tunç#sameDepartment#2-3,2-4,4-2
+N.Cağıltay#differentDepartment#1-5,4-7
+T.Karadeniz#sameDepartment#3-1,3-4,5-3,5-6

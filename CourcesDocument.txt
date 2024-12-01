@@ -1,0 +1,22 @@
+SENG 315#Concurrent Programming#40#3#0#Zorunlu#B.Avenoglu
+SENG 429#Enterprise Application Development Laboratory#35#1#2#Seçmeli#B.Avenoglu
+SENG 465#Artificial Intelligence in Game Programming#40#3#0#Seçmeli#B.Avenoglu
+CENG 111#Computer Programming I#35#3#2#Servis#B.Avenoglu
+SENG 201#Data Structures#60#3#2#Zorunlu#B.Çelikkale
+SENG 383#Software Project III#40#0#2#Zorunlu#B.Çelikkale
+SENG 426#Formal Methods in Software Development#30#4#0#Zorunlu#B.Çelikkale
+SENG 101#Computer Programming I#70#3#2#Zorunlu#S.Esmelioglu
+SENG 102#Computer Programming II#20#3#2#Zorunlu#S.Esmelioglu
+SENG 303#Software Testing for Quality Assurance#40#3#0#Zorunlu#S.Esmelioglu
+SENG 491#Graduation Project I#36#1#4#Zorunlu#S.Esmelioglu
+SENG 492#Graduation Project II#0#1#4#Zorunlu#S.Esmelioglu
+SENG 206#Software Design#65#3#0#Zorunlu#S.K. Tunç
+SENG 301#Software Project Management#45#2#2#Zorunlu#S.K. Tunç
+SENG 474#Human Computer Interaction#65#3#0#Seçmeli#S.K. Tunç
+SENG 449#Special Topics in Software Engineering#30#3#0#Seçmeli#N.Cağıltay
+CENG 114#Computer Programming II#30#3#2#Servis#N.Cağıltay
+CENG 595#Special Topics in Computer Engineering I#30#3#0#YL#N.Cağıltay
+SENG 200#Summer Training I#30#0#0#Zorunlu#T.Karadeniz
+SENG 300#Summer Training II#25#0#0#Zorunlu#T.Karadeniz
+CENG 161#Introduction to Computer Programming#80#3#2#Servis#T.Karadeniz
+SENG 445#Computer Vision#30#3#0#Seçmeli#T.Karadeniz
