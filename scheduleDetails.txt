@@ -1,0 +1,34 @@
+SENG 315#Concurrent Programming#theorical#B.Avenoglu#ma01#1-4,1-5,1-6
+SENG 429#Enterprise Application Development Laboratory#theorical#B.Avenoglu#ma02#1-1
+SENG 429#Enterprise Application Development Laboratory#practical#B.Avenoglu#ma01#1-7,1-8
+SENG 465#Artificial Intelligence in Game Programming#theorical#B.Avenoglu#ma01#2-1,2-2,2-3
+CENG 111#Computer Programming I#theorical#B.Avenoglu#ma01#2-4,2-5,2-6
+CENG 111#Computer Programming I#practical#B.Avenoglu#ma01#2-7,2-8
+SENG 201#Data Structures#theorical#B.Çelikkale#ma03#1-1,1-2,1-3
+SENG 201#Data Structures#practical (1)#B.Çelikkale#ma02#1-4,1-5
+SENG 201#Data Structures#practical (2)#B.Çelikkale#ma02#1-6,1-7
+SENG 383#Software Project III#practical#B.Çelikkale#ma03#2-2,2-3
+SENG 426#Formal Methods in Software Development#theorical#B.Çelikkale#ma02#2-4,2-5,2-6,2-7
+SENG 101#Computer Programming I#theorical#S.Esmelioglu#ma04#1-2,1-3,1-4
+SENG 101#Computer Programming I#practical (1)#S.Esmelioglu#ma03#1-5,1-6
+SENG 101#Computer Programming I#practical (2)#S.Esmelioglu#ma03#1-7,1-8
+SENG 102#Computer Programming II#theorical#S.Esmelioglu#mb01#2-1,2-2,2-3
+SENG 102#Computer Programming II#practical#S.Esmelioglu#ma04#2-4,2-5
+SENG 303#Software Testing for Quality Assurance#theorical#S.Esmelioglu#ma03#2-6,2-7,2-8
+SENG 491#Graduation Project I#theorical#S.Esmelioglu#ma01#3-1
+SENG 491#Graduation Project I#practical#S.Esmelioglu#ma02#3-4,3-5,3-6,3-7
+SENG 492#Graduation Project II#theorical#S.Esmelioglu#ma01#3-8
+SENG 492#Graduation Project II#practical#S.Esmelioglu#ma01#4-1,4-2,4-3,4-4
+SENG 206#Software Design#theorical#S.K.Tunç#mb02#1-1,1-2,1-3
+SENG 301#Software Project Management#theorical#S.K.Tunç#mb01#1-4,1-5
+SENG 301#Software Project Management#practical (1)#S.K.Tunç#ma04#1-6,1-7
+SENG 301#Software Project Management#practical (2)#S.K.Tunç#ma02#2-1,2-2
+SENG 474#Human Computer Interaction#theorical#S.K.Tunç#mb01#2-5,2-6,2-7
+SENG 449#Special Topics in Software Engineering#theorical#N.Cağıltay#mb03#1-1,1-2,1-3
+CENG 114#Computer Programming II#theorical#N.Cağıltay#mb01#1-6,1-7,1-8
+CENG 114#Computer Programming II#practical#N.Cağıltay#mb02#2-1,2-2
+CENG 595#Special Topics in Computer Engineering I#theorical#N.Cağıltay#mb03#2-3,2-4,2-5
+CENG 161#Introduction to Computer Programming#theorical#T.Karadeniz#mb04#1-1,1-2,1-3
+CENG 161#Introduction to Computer Programming#practical (1)#T.Karadeniz#mb02#1-4,1-5
+CENG 161#Introduction to Computer Programming#practical (2)#T.Karadeniz#mb02#1-6,1-7
+SENG 445#Computer Vision#theorical#T.Karadeniz#mb04#2-1,2-2,2-3

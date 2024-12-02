@@ -3,6 +3,7 @@ import java.util.Map;
 
 public class Timetable {
     public Map<String, Boolean> timetable;
+    public String reservedForExams1 = "5-5", reservedForExams2 = "5-6";
 
     // Constructor
     public Timetable() {
@@ -12,12 +13,14 @@ public class Timetable {
 
     // Timetable'ı oluşturma metodu
     public void generateTimetable() {
-        for (int day = 1; day <= 6; day++) {
+        for (int day = 1; day < 6; day++) {
             for (int lec = 1; lec <= 8; lec++) {
                 String key = day + "-" + lec; // Örnek: "1-1", "1-2"...
                 timetable.put(key, true); // Varsayılan olarak "true" ekleniyor.
             }
         }
+        changeStatus(reservedForExams1, false);
+        changeStatus(reservedForExams2, false);
     }
 
     public boolean checkAvaliablity(String slot) {
@@ -33,7 +36,7 @@ public class Timetable {
 
         // Gün başlıklarını hizalı yazdır
         System.out.printf("%-12s", ""); // Boşluk için
-        for (int day = 1; day <= 6; day++) {
+        for (int day = 1; day < 6; day++) {
             System.out.printf("%-10s", "Day " + day);
         }
         System.out.println();
@@ -46,7 +49,7 @@ public class Timetable {
         // Her ders saatine göre tabloyu doldur
         for (int lec = 1; lec <= 8; lec++) {
             System.out.printf("%-12s", "Lecture " + lec); // Lecture başlıklarını hizalı yazdır
-            for (int day = 1; day <= 6; day++) {
+            for (int day = 1; day < 6; day++) {
                 String key = day + "-" + lec;
                 // Renk ve sembollerle yazdırma
                 if (timetable.get(key)) {

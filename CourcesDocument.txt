@@ -10,9 +10,9 @@ SENG 102#Computer Programming II#20#3#2#Zorunlu#S.Esmelioglu
 SENG 303#Software Testing for Quality Assurance#40#3#0#Zorunlu#S.Esmelioglu
 SENG 491#Graduation Project I#36#1#4#Zorunlu#S.Esmelioglu
 SENG 492#Graduation Project II#0#1#4#Zorunlu#S.Esmelioglu
-SENG 206#Software Design#65#3#0#Zorunlu#S.K. Tunç
-SENG 301#Software Project Management#45#2#2#Zorunlu#S.K. Tunç
-SENG 474#Human Computer Interaction#65#3#0#Seçmeli#S.K. Tunç
+SENG 206#Software Design#65#3#0#Zorunlu#S.K.Tunç
+SENG 301#Software Project Management#45#2#2#Zorunlu#S.K.Tunç
+SENG 474#Human Computer Interaction#65#3#0#Seçmeli#S.K.Tunç
 SENG 449#Special Topics in Software Engineering#30#3#0#Seçmeli#N.Cağıltay
 CENG 114#Computer Programming II#30#3#2#Servis#N.Cağıltay
 CENG 595#Special Topics in Computer Engineering I#30#3#0#YL#N.Cağıltay
