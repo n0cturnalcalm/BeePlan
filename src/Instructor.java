@@ -4,6 +4,7 @@ public class Instructor {
     public String name;
     public String fromWhere;
     public Timetable avaliableSessions;
+    public int[] dailyTheoricalLectures = { 0, 0, 0, 0, 0 };
 
     public Instructor(String name, String fromWhere, String avaliableSessionsString) {
         String[] avaliableSessionsArr = avaliableSessionsString.split(",");
